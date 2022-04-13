@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df3e9070.css",
+    "main.js": "/static/js/main.2ca21a8b.js",
+    "static/media/bg-clouds.png": "/static/media/bg-clouds.4515d68e25bd8362f3c0.png",
+    "static/media/precipitation.svg": "/static/media/precipitation.1dc3f1bb365225f0d610.svg",
+    "static/media/temp.svg": "/static/media/temp.0afb87419db6d1029df2.svg",
+    "static/media/header-logo.svg": "/static/media/header-logo.75dbed6f725ec5d544d9.svg",
+    "static/media/small-rain-sun.svg": "/static/media/small-rain-sun.96f688e31e41639e3b9e.svg",
+    "static/media/rain.svg": "/static/media/rain.eb1f9ddd9f908e103ba5.svg",
+    "static/media/sun.svg": "/static/media/sun.9d8074175b47ee8b5343.svg",
+    "static/media/small-rain.svg": "/static/media/small-rain.c3da5c12bdd972ab97d0.svg",
+    "static/media/wind.svg": "/static/media/wind.d4ed59afb4ed98220175.svg",
+    "static/media/mainly-cloudy.svg": "/static/media/mainly-cloudy.85866a4b71c600a765e0.svg",
+    "static/media/pressure.svg": "/static/media/pressure.b61f40680041707e619b.svg",
+    "static/media/change-theme-icon.svg": "/static/media/change-theme-icon.4bda8535b14d08e0ebb1.svg",
+    "index.html": "/index.html",
+    "main.df3e9070.css.map": "/static/css/main.df3e9070.css.map",
+    "main.2ca21a8b.js.map": "/static/js/main.2ca21a8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df3e9070.css",
+    "static/js/main.2ca21a8b.js"
+  ]
+}
